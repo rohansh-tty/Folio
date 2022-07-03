@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Folio'
-theme = 'ghostwriter'
+theme = 'archie'
 copyright = "Rohan Shetty"
 
 [Params]
