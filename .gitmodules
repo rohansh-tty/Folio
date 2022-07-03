@@ -2,5 +2,5 @@
 	path = themes/ghostwriter
 	url = https://github.com/jbub/ghostwriter
 [submodule "themes/themes/archie"]
-	path = themes/themes/archie
+	path = themes/archie
 	url = https://github.com/athul/archie.git
