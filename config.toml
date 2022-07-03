@@ -1,4 +1,4 @@
-baseURL = 'http://www.merry-cassata-94878b.netlify.app/'
+baseURL = 'https://www.merry-cassata-94878b.netlify.app/'
 languageCode = 'en-us'
 title = 'Folio'
 theme = 'ghostwriter'
