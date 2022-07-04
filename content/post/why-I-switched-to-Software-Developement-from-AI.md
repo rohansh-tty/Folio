@@ -2,7 +2,6 @@
 title = "Why I switched to Software Development from AI?"
 date = 2022-07-04T06:42:16+05:30
 description = "My reasoning behind early career switch"
-date = 2020-06-04T02:13:50Z
 author = "Rohan Shetty"
 +++
 
