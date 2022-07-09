@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Folio'
+title = 'Rohan Shetty'
 theme = 'archie'
 copyright = "Rohan Shetty"
 
@@ -57,7 +57,7 @@ url = "/post"
 weight = 2
 
 [[menu.main]]
-name = "eli5"
+name = "ELI5"
 url = "/eli5"
 weight = 3
 
