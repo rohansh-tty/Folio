@@ -2,7 +2,7 @@
 title = "Migrating from Jekyll"
 description = "Migrating from Jekyll description."
 date = 2014-04-02T02:13:50Z
-author = "Michael Henderson"
+author = "Rohan Shetty"
 +++
 
 ## Move static content to `static`
